@@ -1,0 +1,28 @@
+
+h1 { 
+  font-size: 40px;
+  color:rgb(120, 10, 32);
+  font-family: Verdana, Tahoma, sans-serif, sans-serif;
+  text-align: center;
+ 
+}
+h2 {
+  font-size: 20;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+body
+{margin:0 auto;text-align:center; background-color: lightgray;
+}
+
+.sarmal{
+  margin:0 auto;text-align:center; width:960px;
+}
+
+div {
+  list-style-position: inside;
+}
+
+li {
+  list-style-position: inside;
+}
